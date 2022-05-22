@@ -1,0 +1,15 @@
+{
+    "title": "- HEXGAME -",
+    "playerOneTurnText": "Player 1 turn",
+    "playerTwoTurnText": "Player 2 turn",
+    "playerOneWinText": "Player 1 won !",
+    "playerTwoWinText": "Player 2 won !",
+    "multiplayer": "Multiplayer",
+    "iavsia": "IA versus IA",
+    "iavsiaOnline": "IA versus IA online",
+    "soloEasy": "1 player : easy",
+    "soloHard": "1 player: hard",
+    "ChoosePlayer": "Choose your turn",
+    "playerOne": "Player 1",
+    "playerTwo": "Player 2"
+}
