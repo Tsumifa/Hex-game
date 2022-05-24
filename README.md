@@ -22,9 +22,7 @@ Un des objectifs de ce projet était de déterminer si un réseau de neurones de
 
 ## INSTALLATION ET CONFIGURATION
 
-Télécharger le projet sur [Github](https://github.com/Tsumifa/Hex-game) et ajouter la librairie [JsonSimple](https://code.google.com/archive/p/json-simple/) aux librairies du projet installation Java. Ceci s'effectue en ajoutant le fichier au dossier *Referenced Librairies* qui se trouve en bas dans l'onglet *JAVA PROJECTS* (voir image ci-dessous).
-
-![installation](https://lh3.google.com/u/0/d/1myPeGhSUEp3RUX49mv3njefwx3xWizhk=w3840-h1847-iv1)
+Télécharger le projet sur [Github](https://github.com/Tsumifa/Hex-game) et ajouter la librairie [JsonSimple](https://code.google.com/archive/p/json-simple/) aux librairies du projet installation Java. Ceci s'effectue en ajoutant le fichier au dossier *Referenced Librairies* qui se trouve en bas dans l'onglet *JAVA PROJECTS*.
 
 Pour configurer le projet, ouvrez le fichier */conf/settings.json*. Ce fichier contient l'ensemble des informations dont a besoin le programme pour fonctionner. Le fichier est le suivant:
 ```json
@@ -162,14 +160,9 @@ Ce jeu dispose de plusieurs modes:
 | IA VS IA  | Le réseau de neurones s'affronte lui même |
 | IA VS IA en ligne  | Affrontement du réseau de neurones et d'une IA adverse sur un serveur padiflac |
 
-Pour jouer, lancez le programme. Une première fenêtre s'ouvre :
-![Première fenêtre](https://lh3.google.com/u/0/d/12oQshCdyLK54w9LXi2vbIa8s9FLgRFsO=w2560-h1315-iv1)
-
-Si vous sélectionnez les modes : *1 joueur : facile*, *1 joueur difficile* et *IA contre IA*, une seconde fenêtre s'ouvre :
-![Deuxième fenêtre](https://lh3.google.com/u/0/d/1Aw7INq-FjzO-gaYZZQZFEOjgqU7KPUaE=w1731-h1315-iv1)
-
+Pour jouer, lancez le programme. Une première fenêtre s'ouvre.
+Si vous sélectionnez les modes : *1 joueur : facile*, *1 joueur difficile* et *IA contre IA*, une seconde fenêtre s'ouvre.
 Enfin une dernière fenêtre s'ouvre et vous pouvez jouer ! 
-![enter image description here](https://lh3.google.com/u/0/d/1Hnp4bEERoESzbsyBYFhDzI3lIhTW-OII=w1731-h1315-iv1)
 
 ## FONCTIONNEMENT 
 
