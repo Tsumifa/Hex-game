@@ -5,12 +5,12 @@ Le jeu de Hex est un jeu de société combinatoire abstrait pour deux joueurs. I
 
 Un des objectifs de ce projet était de déterminer si un réseau de neurones de proportion raisonnable (capable d'être exécuté sur un ordinateur standard sans temps de calcul ressentit) peut jouer de manière intelligente à ce jeu. Après plusieurs tentatives, le réseau de neurones s'avère être légèrement plus efficace que le placement aléatoire mais n'est absolument pas capable d'affronter un humain.    
 
- >  Auteurs : **Thomas HODSON** & **Adam ALAMI**
- > [Université Paris Est Créteil : Faculté des Sciences et Technologies](https://www.u-pec.fr/)
- > Poster le : 22-05-2022
- > Langage : [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
- > Éditeur : [Visual Studio Code](https://code.visualstudio.com/)
- > Images: [Flaticon](https://www.flaticon.com/fr/)
+ -  Auteurs : **Thomas HODSON** & **Adam ALAMI**
+ - [Université Paris Est Créteil : Faculté des Sciences et Technologies](https://www.u-pec.fr/)
+ - Poster le : 22-05-2022
+ - Langage : [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+ - Éditeur : [Visual Studio Code](https://code.visualstudio.com/)
+ - Images: [Flaticon](https://www.flaticon.com/fr/)
 
 **Librairie:**
 - [JsonSimple](https://code.google.com/archive/p/json-simple/) - Lecture de données enregistrées dans un fichier JSON.
